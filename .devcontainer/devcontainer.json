@@ -8,6 +8,9 @@
           "ghcr.io/devcontainers-contrib/features/springboot-sdkman:2": {
             "version":"latest"
           },
+              "ghcr.io/devcontainers-contrib/features/maven-sdkman:2": {
+                  "version":"latest"
+              },
         "ghcr.io/devcontainers/features/docker-in-docker:1": {
             "version": "latest",
             "moby": true
